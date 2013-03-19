@@ -1,0 +1,12 @@
+package sfsu.edu;
+
+public interface MultiplayerAccessDB {
+	
+	//This inrterface has the signature of all the functions/information 
+	//required by the server regarding animals.
+	
+	
+	
+	
+
+}

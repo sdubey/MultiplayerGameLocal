@@ -1,0 +1,5 @@
+package sfsu.edu;
+
+public interface MultiplayerAccessPlantsDB {
+
+}
