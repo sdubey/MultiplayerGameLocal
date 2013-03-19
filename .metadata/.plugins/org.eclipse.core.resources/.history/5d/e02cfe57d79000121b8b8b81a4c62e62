@@ -1,0 +1,7 @@
+package sfsu.edu.dao;
+
+public interface AnimalDAO {
+	
+
+
+}
